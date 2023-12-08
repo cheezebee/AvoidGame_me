@@ -1,0 +1,29 @@
+﻿  Game.cpp
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(127,39): warning C4552: '-': result of expression not used
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(128,39): warning C4552: '-': result of expression not used
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(179,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(196,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(218,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,62): warning C4244:         with
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,62): warning C4244:         [
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,62): warning C4244:             T=unsigned int
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,62): warning C4244:         ]
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,29): warning C4244:         with
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,29): warning C4244:         [
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,29): warning C4244:             T=unsigned int
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(256,29): warning C4244:         ]
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,64): warning C4244:         with
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,64): warning C4244:         [
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,64): warning C4244:             T=unsigned int
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,64): warning C4244:         ]
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,31): warning C4244:         with
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,31): warning C4244:         [
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,31): warning C4244:             T=unsigned int
+C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\AvoidGame\Game.cpp(274,31): warning C4244:         ]
+  AvoidGame.vcxproj -> C:\Users\애드인에듀\Documents\AvoidGame_me\AvoidGame\Debug\AvoidGame.exe
